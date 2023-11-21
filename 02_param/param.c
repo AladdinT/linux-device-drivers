@@ -7,7 +7,7 @@ MODULE_DESCRIPTION("A Psuedo device driver with parameter");
 
 int count = 0 ;
 
-module_param(count, int, 664);
+module_param(count, int, 0664);
 
 static int __init driver_hello(void)
 {

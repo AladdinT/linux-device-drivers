@@ -1,0 +1,1 @@
+cmd_/home/ahmad/workspace/device_driver/02_param/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/ahmad/workspace/device_driver/02_param/Module.symvers -T /home/ahmad/workspace/device_driver/02_param/modules.order -i Module.symvers -e 

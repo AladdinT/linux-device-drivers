@@ -1,0 +1,1 @@
+cmd_/home/ahmad/workspace/device_driver/02_param/param.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/ahmad/workspace/device_driver/02_param/param.ko /home/ahmad/workspace/device_driver/02_param/param.o /home/ahmad/workspace/device_driver/02_param/param.mod.o;  true
