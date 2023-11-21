@@ -1,0 +1,1 @@
+cmd_/home/ahmad/workspace/device_driver/helloworld/modules.order := {   echo /home/ahmad/workspace/device_driver/helloworld/hello.o; :; } > /home/ahmad/workspace/device_driver/helloworld/modules.order

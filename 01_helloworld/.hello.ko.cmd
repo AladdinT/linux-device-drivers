@@ -1,0 +1,1 @@
+cmd_/home/ahmad/workspace/device_driver/helloworld/hello.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/ahmad/workspace/device_driver/helloworld/hello.ko /home/ahmad/workspace/device_driver/helloworld/hello.o /home/ahmad/workspace/device_driver/helloworld/hello.mod.o;  true
