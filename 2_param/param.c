@@ -8,10 +8,11 @@ MODULE_DESCRIPTION("A Psuedo device driver with parameter");
 int count = 0 ;
 
 module_param(count, int, 0664);
+MODULE_PARM_DESC(count, "Represents the number of printing iterations");
 
 static int __init driver_hello(void)
 {
-    int i = 0 ; // Standard Requirement
+    int i = 0 ; // c89 Standard Requirement to define i before the for loop
     for(i=0; i<count ; i++)
     {
         printk("Hello From Kernel \n");
