@@ -1,6 +1,8 @@
 {
     "C_Cpp.default.compilerPath": "/usr/bin/gcc",
     "files.associations": {
-        "init.h": "c"
+        "init.h": "c",
+        "regset.h": "c",
+        "cdev.h": "c"
     }
 }

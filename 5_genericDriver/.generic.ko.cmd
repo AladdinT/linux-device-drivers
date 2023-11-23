@@ -1,0 +1,1 @@
+cmd_/home/ahmad/workspace/device_driver/5_genericDriver/generic.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/ahmad/workspace/device_driver/5_genericDriver/generic.ko /home/ahmad/workspace/device_driver/5_genericDriver/generic.o /home/ahmad/workspace/device_driver/5_genericDriver/generic.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/ahmad/workspace/device_driver/5_genericDriver/generic.mod := printf '%s\n'   generic.o | awk '!x[$$0]++ { print("/home/ahmad/workspace/device_driver/5_genericDriver/"$$0) }' > /home/ahmad/workspace/device_driver/5_genericDriver/generic.mod

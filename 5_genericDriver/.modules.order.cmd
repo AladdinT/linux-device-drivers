@@ -1,0 +1,1 @@
+cmd_/home/ahmad/workspace/device_driver/5_genericDriver/modules.order := {   echo /home/ahmad/workspace/device_driver/5_genericDriver/generic.o; :; } > /home/ahmad/workspace/device_driver/5_genericDriver/modules.order

@@ -1,1 +1,0 @@
-cmd_/home/ahmad/workspace/device_driver/helloworld/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/ahmad/workspace/device_driver/helloworld/Module.symvers -T /home/ahmad/workspace/device_driver/helloworld/modules.order -i Module.symvers -e 

@@ -1,5 +1,6 @@
 #include <linux/module.h>
 #include <linux/init.h>
+#include <linux/moduleparam.h>
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Tohamy ");
