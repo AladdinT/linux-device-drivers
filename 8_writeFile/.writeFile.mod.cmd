@@ -1,0 +1,1 @@
+cmd_/home/ahmad/workspace/device_driver/8_writeFile/writeFile.mod := printf '%s\n'   writeFile.o | awk '!x[$$0]++ { print("/home/ahmad/workspace/device_driver/8_writeFile/"$$0) }' > /home/ahmad/workspace/device_driver/8_writeFile/writeFile.mod

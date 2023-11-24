@@ -1,0 +1,1 @@
+cmd_/home/ahmad/workspace/device_driver/8_writeFile/modules.order := {   echo /home/ahmad/workspace/device_driver/8_writeFile/writeFile.o; :; } > /home/ahmad/workspace/device_driver/8_writeFile/modules.order
